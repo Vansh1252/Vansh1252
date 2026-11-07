@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Vansh%20Sanklecha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%2B%20AI&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Vansh%20Jain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%2B%20AI&descAlignY=58&descSize=18" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+full-stack+products+with+the+MERN+stack;Shipping+AI+features%3A+RAG%2C+LLMs%2C+vector+search;Next.js+%7C+TypeScript+%7C+Node.js+%7C+Python;Open+to+SDE-1+roles" alt="Typing SVG" /></a>
@@ -46,15 +46,5 @@
 | [**School Management – Backend**](https://github.com/Vansh1252/school-mangement-backend-) · [live](https://school-mangement-backend.vercel.app) | Secure REST API with JWT auth, rate limiting, uploads and mail | Node · Express · MongoDB · JWT · Helmet |
 | [**School Management – Frontend**](https://github.com/Vansh1252/school-management-frontend) | Admin dashboard with charts, calendar and role-based views | React · MUI · Ant Design · Chart.js |
 | [**react-frontend**](https://github.com/Vansh1252/react-frontend) · [live](https://react-frontend-2pxh.vercel.app) | React single-page app | React · JavaScript |
-
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vansh1252&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh1252&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vansh1252&theme=tokyonight&hide_border=true" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
