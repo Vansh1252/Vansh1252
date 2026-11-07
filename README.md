@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,tailwind&perline=12" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,materialui,nodejs,express&perline=12" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,vercel,git,github,postman,vscode&perline=12" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,aws,vercel,docker,git,github,postman,vscode&perline=12" />
 </p>
 
 <p align="center">
@@ -33,18 +33,43 @@
   <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-LLM%20Apps-FF6F00?style=flat-square"/>
   <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
 </p>
 
 ### Featured projects
 
+**AI**
+
 | Project | What it is | Stack |
 |---|---|---|
-| [**RagModel**](https://github.com/Vansh1252/RagModel) | Retrieval-augmented chat over your documents: ingestion, embeddings, vector search, conversation history and analytics | TypeScript · OpenAI · Pinecone · Postgres · Drizzle |
-| [**projkecyt**](https://github.com/Vansh1252/projkecyt) · [live](https://projkecyt.vercel.app) | Next.js app with AI features, PDF generation, dashboards and email | Next.js · TypeScript · Redux · Supabase · OpenAI |
-| [**School Management – Backend**](https://github.com/Vansh1252/school-mangement-backend-) · [live](https://school-mangement-backend.vercel.app) | Secure REST API with JWT auth, rate limiting, uploads and mail | Node · Express · MongoDB · JWT · Helmet |
-| [**School Management – Frontend**](https://github.com/Vansh1252/school-management-frontend) | Admin dashboard with charts, calendar and role-based views | React · MUI · Ant Design · Chart.js |
-| [**react-frontend**](https://github.com/Vansh1252/react-frontend) · [live](https://react-frontend-2pxh.vercel.app) | React single-page app | React · JavaScript |
+| [**RagModel**](https://github.com/Vansh1252/RagModel) | Full-stack RAG chatbot: upload documents, index them in Pinecone and chat with an assistant that answers from your own knowledge base | React · Node · TypeScript · OpenAI · Pinecone · Postgres |
+| [**AI Onboarding & Proposal Generator**](https://github.com/Vansh1252/projkecyt) · [live](https://projkecyt.vercel.app) | Multi-step business onboarding where OpenAI recommends services, then a PDF proposal is generated and emailed | Next.js · TypeScript · OpenAI · Supabase · Puppeteer |
+
+**Full-stack products**
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Tutoring Platform**: [backend](https://github.com/Vansh1252/node_project_sql) · [admin panel](https://github.com/Vansh1252/react-frontend) · [live](https://react-frontend-2pxh.vercel.app) | Students, tutors, weekly availability, recurring slot booking, Razorpay payments and real-time updates | Node · Express · MySQL · Sequelize · Socket.IO · Jest · React |
+| **School Management System**: [backend](https://github.com/Vansh1252/school-mangement-backend-) · [frontend](https://github.com/Vansh1252/school-management-frontend) | Students, teachers, parents, classes, fees, expenses and events with role-based access | Node · Express · MongoDB · JWT · React · MUI · Chart.js |
+| [**VideoTube**](https://github.com/Vansh1252/youtubecloneBD) | YouTube-style backend: videos, subscriptions, playlists, comments, likes and a channel dashboard | Node · Express · MongoDB · Cloudinary · JWT |
+
+<details>
+<summary><b>More projects</b></summary>
+<br/>
+
+| Project | What it is |
+|---|---|
+| [E-commerce backend](https://github.com/Vansh1252/goldibackennd1) | Admin and customer APIs for products, cart, orders, repairs and samples |
+| [Face recognition app](https://github.com/Vansh1252/face-detection) | Electron + face-api.js desktop app with real-time recognition |
+| [Blogging backend](https://github.com/Vansh1252/bloggingBD) | Articles, comments and likes with JWT auth |
+| [To-do backend](https://github.com/Vansh1252/todoListBD) | Tasks with email verification and JWT login |
+| [DreamBox website](https://github.com/Vansh1252/dreamBox-project) · [live](https://dream-box-project.vercel.app) | Business site for a Dubai video production company |
+| [Resume site](https://github.com/Vansh1252/resume) | Personal portfolio built with Express and EJS |
+
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
